@@ -1,2 +1,9 @@
-# blackjack-toyktt
-Generated from prompt: Demo Calculator App  Requirements &amp; Concept Brief 1. Purpose Build a lightweight, easy-to-...
+# Generated App
+
+This app was generated using GitHub Spark.
+
+## Getting Started
+
+1. Clone this repository
+2. Follow the setup instructions for your app type
+3. Start developing!
